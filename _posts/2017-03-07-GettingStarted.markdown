@@ -47,6 +47,9 @@ python manage.py runserver
 {% endhighlight %}
 
 
+O par de login padrão *(usuario/senha)* é: admin/admin
+
+
 Ele estará disponível em <http://localhost:8000/>
 
 
@@ -58,3 +61,10 @@ Primeiro, crie um app:
 python manage.py startapp seuapp
 {% endhighlight %}
 
+.......
+
+
+Apphook
+=======
+
+soon...
