@@ -70,7 +70,7 @@ Apphook
 O que é um apphook?
 ===================
 
-Um apphook permite que você atribua um app de django para uma página fixa do seu site em CMS.
+Um apphook permite que você atribua um app de django para uma página fixa do seu site em CMS, você pode também configurar para tudo trabalhar de acordo com o namespace do seu app, como um projeto de Django qualquer.
 
 Você cria uma página do DjangoCMS em branco e anexa nela o app desejado.
 
@@ -83,7 +83,7 @@ Crie um arquivo cms_apps.py na pasta da aplicação em CMS, o diretório deve fi
 
 ```
 meusite
-│   LEIAME.md    
+│   LEIAME.md
 │
 └── meuapp
 │   │    migrations/
@@ -96,7 +96,7 @@ meusite
 │   │    tests.py
 │   │    urls.py
 │   └─── views.py
-│   
+│
 └── meusite
     │    static/
     │    templates/
