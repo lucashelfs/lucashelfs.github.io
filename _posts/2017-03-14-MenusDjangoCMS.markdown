@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django-CMS: Apphooks"
+title: "Django-CMS: Menus customizados"
 date:   2017-03-14 11:56:00 -0300
 categories: django-cms python menus
 ---
@@ -21,17 +21,17 @@ from cms.menu_bases import CMSAttachMenu
 # from cms.menu_bases import Menu
 
 
-class JoinUsMenu(CMSAttachMenu):
+	class JoinUsMenu(CMSAttachMenu):
 
-    name = _("Join-us menu")
+	    name = _("Join-us menu")
 
-    def get_nodes(self, request):
-        nodes = []
-        n = NavigationNode(_('Join us ROOTS'), "./", 1)
-        n2 = NavigationNode(_('Join now'), "./now", 2)
-        nodes.append(n)
-        nodes.append(n2)
-        return nodes
+	    def get_nodes(self, request):
+	        nodes = []
+	        n = NavigationNode(_('Join us ROOTS'), "./", 1)
+	        n2 = NavigationNode(_('Join now'), "./now", 2)
+	        nodes.append(n)
+	        nodes.append(n2)
+	        return nodes
 
 menu_pool.register_menu(JoinUsMenu)
 {% endhighlight %}
