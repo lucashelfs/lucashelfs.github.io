@@ -21,10 +21,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucashelfs
 github_username:  lucashelfs
+social_username: lucashelfs
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# Theme configs
+theme: jekyll-swiss
+theme-color: black  
+
 gems:
   - jekyll-feed
 exclude:
