@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Eu
+permalink: /eu/
 ---
 
-I'm Lucas Helfstein, 21 years old, CS undergraduate.
+Sou Lucas Helfstein, tenho 21 anos e estou no sétimo semestre de Ciência da Computação no IME-USP.
 
-I'll be posting around here the things I work on and hope that it helps anyone else.
-
-You can find me almost everywhere on the internet as *lucashelfs*.
+Posto aqui coisas relacionadas a desenvolvimento que aprendo no meu cotidiano, e algumas outras coisas que me interessam.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Contato
+permalink: /contato/
 ---
 
-This is my contact page. 
+Estou na maioria das redes como *lucashelfs*.

@@ -84,6 +84,8 @@ code { color: #DC3918; font-size: 16px; padding: 1px 4px; }
 .border-0 { border: 0; }
 
 /* Theme color utilities */
+.home-background { background-color: #181818; }
+
 .header-background { background-color: #181818; }
 
 .header-border { border-color: #fff; }

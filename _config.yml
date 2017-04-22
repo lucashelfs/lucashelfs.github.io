@@ -16,12 +16,14 @@
 title: Helfsblog
 email: helfs@ime.usp.br
 description: > # this means to ignore newlines until "baseurl:"
-  Lucas Helfstein's blog. 
-baseurl: "" # the subpath of your site, e.g. /blog
+  Lugar onde escrevo sobre algumas coisas.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucashelfs
 github_username:  lucashelfs
 social_username: lucashelfs
+facebook_username: lucashelfs
+instagram_username: lucashelfs
 
 # Build settings
 markdown: kramdown
