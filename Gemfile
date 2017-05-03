@@ -30,3 +30,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Github pages
 gem 'github-pages'
 
+gem 'json'
