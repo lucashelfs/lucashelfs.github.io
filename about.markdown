@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -15,4 +15,13 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://github.com/jekyll -->
+
+Este é o meu cantinho da internet onde escrevo sobre algumas coisas que compõem a minha vida. Aqui você poderá enconrar um pouquinho de:
+
++ Desenvolvimento de software
++ Ciência de dados
++ Música
++ Séries
++ Cinema
+
