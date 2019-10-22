@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: lucas/helfs
+title: lucas / helfs
 email: lucashelfstein@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Publicações sobre tecnologia e algumas cositas más.
+  Publicações sobre tecnologia, ou não.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucashelfs
@@ -31,6 +31,12 @@ github_username:  lucashelfs
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
