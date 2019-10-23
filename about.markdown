@@ -14,10 +14,9 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
-
 [jekyll-organization]: https://github.com/jekyll -->
 
-Este é o meu cantinho da internet onde escrevo sobre algumas coisas que compõem a minha vida. Aqui você poderá enconrar um pouquinho de:
+Este é o meu cantinho da internet onde escrevo sobre algumas coisas que compõem a minha vida. Por aqui, você deve encontrar:
 
 + Desenvolvimento de software
 + Ciência de dados
