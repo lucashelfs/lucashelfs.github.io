@@ -20,5 +20,5 @@ Uma solução para esse problema é utilizar o **rsync**  que cria apenas uma co
 O comando a ser utilizado é o seguinte:
 
 ``` shell
-rsync -av -P carf_abjur/ jota@137.117.43.115:/sdd/carf
+rsync -av -P meu_diretorio/ usuario@servidor:/novo_diretorio
 ```
