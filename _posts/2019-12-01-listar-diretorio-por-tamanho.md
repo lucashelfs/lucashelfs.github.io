@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Listar um diretório por ordem de tamanho"
-category: Tutoriais
+category: Tecnologia
 published: True
 ---
 

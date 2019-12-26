@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pip freeze de dentro de um python shell"
-category: Tutoriais
+category: Tecnologia
 ---
 
 Como obter as coisas instaladas no environment de dentro de um python shell? É muito simples, basta rodar o seguinte comando:
