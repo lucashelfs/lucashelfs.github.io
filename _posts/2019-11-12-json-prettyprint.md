@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conferindo se um JSON pelo terminal"
+title:  "Conferindo se um JSON está bem formado pelo terminal"
 category: Tecnologia
 ---
 
@@ -9,3 +9,5 @@ Pode ser dificil visualizar se um arquivo JSON está estruturado corretamente s�
 ```shell
 cat seu_arquivo.json | python -m json.tool | pygmentize -l json
 ```
+
+Até a próxima!
