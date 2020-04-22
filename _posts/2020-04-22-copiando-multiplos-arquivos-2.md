@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Copiando milhares de arquivos pequenos - usando uma chave"
+title:  "Copiando milhares de arquivos pequenos - usando uma chave criptográfica"
 category: Tecnologia
 published: True
 ---
