@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <h2>O que você procura?</h2>
+
+  <div id="archives">
+    <div class="archive-group"><div id="#Crônicas"></div>
+        <p></p>
+        <h3 class="category-head"><a href="/cronicas/">Crônicas</a></h3>
+        <a name="Crônicas"></a>
+    </div>        
+    <div class="archive-group"><div id="#Resenhas"></div>
+        <p></p>
+        <h3 class="category-head"><a href="/resenhas/">Resenhas</a></h3>
+        <a name="Resenhas"></a>
+    </div>
+    <div class="archive-group"><div id="#Tecnologia"></div>
+        <p></p>
+        <h3 class="category-head"><a href="/tecnologia/">Tecnologia</a></h3>
+        <a name="Tecnologia"></a>
+    </div>
+</div>
+
+
+  <!-- {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Categorias" }}</h2>
+    
+    <div id="archives">
+        {% for category in site.categories %}
+          <div class="archive-group">
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <div id="#{{ category_name | slugize }}"></div>
+            <p></p>
+        
+            <h3 class="category-head"><a href=" {{ category_name }}">{{ category_name }}</a></h3>
+            <a name="{{ category_name | slugize }}"></a>
+
+          </div>
+        {% endfor %}
+    </div> -->
+    
+    <!-- <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%d/%m/%y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul> -->
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

@@ -3,6 +3,7 @@ layout: post
 title:  "Deep Down Happy"
 category: Resenhas
 published: True
+author: "lucashelfs"
 ---
 
 **PS:** escrever sobre música não é minha área, mas aqui vai mais uma tentativa.
