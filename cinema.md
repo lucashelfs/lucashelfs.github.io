@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: page
-title: Resenhas
-permalink: /resenhas/
+title: Cinema
+permalink: /cinema/
 ---
 
 <ul class="post-list">
@@ -19,4 +19,4 @@ permalink: /resenhas/
     {%- endif -%}
     </li>
     {%- endfor -%}
-</ul> -->
+</ul>

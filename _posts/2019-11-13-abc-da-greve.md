@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "ABC da Greve"
-category: Resenhas
 published: True
+author: "lucashelfs"
+categories: 
+    - Resenhas
+    - Filmes
 ---
 
 Neste documentário com direção e roteiro de Leon Hirszman, podemos ver os acontecimentos do movimento operário de 1979 no ABC paulista.

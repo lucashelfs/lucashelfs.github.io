@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Astroworld"
-category: Resenhas
 published: True
+author: "lucashelfs"
+categories: 
+    - Resenhas
+    - Música
 ---
 
 Após ver o documentário _Travis Scott: Voando alto_ e me surpreender com a legião de fãs enlouquecidos que Travis possui nos EUA, precisei revisitar esse álbum.
