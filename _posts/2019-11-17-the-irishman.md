@@ -5,7 +5,7 @@ published: True
 author: "lucashelfs"
 categories: 
     - Resenhas
-    - Filmes
+    - Cinema
 ---
 
 No dia 17 de Novembro de 2019, Martin Scorsese completou 77 anos.

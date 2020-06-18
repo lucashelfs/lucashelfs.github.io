@@ -5,7 +5,7 @@ published: True
 author: "lucashelfs"
 categories: 
     - Resenhas
-    - Filmes
+    - Cinema
 ---
 
 Neste documentário com direção e roteiro de Leon Hirszman, podemos ver os acontecimentos do movimento operário de 1979 no ABC paulista.

@@ -4,7 +4,7 @@ title:  "Paris Is Burning"
 author: "lucashelfs"
 categories: 
     - Resenhas
-    - Filmes
+    - Cinema
 ---
 
 Documentário de Jennie Livingston filmado do meio até o fim da década de 80, retratando a cultura dos bailes de Nova York e as comunidades gays, latinas, afro-americanas e comunidades trans envolvidas. 
