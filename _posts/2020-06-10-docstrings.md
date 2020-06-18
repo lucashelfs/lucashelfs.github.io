@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Encontrando diretórios vazios"
+title:  "Docstrings"
 category: Tecnologia
 published: True
 ---
