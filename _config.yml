@@ -32,7 +32,6 @@ instagram_username:  lucashelfs
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-youtube
 
 collections:
   category:
