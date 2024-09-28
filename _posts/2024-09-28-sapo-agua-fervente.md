@@ -17,10 +17,11 @@ Essa fábula é uma das inspirações pro disco novo da banda DIIV - Frog In Boi
 
 O disco oferece algumas perspectivas pessimistas para o futuro e reflexões sobre nosso tempo, tudo isso sendo costurado com um trabalho visual que brinca com bizarrices oferecidas por algoritmos de inteligência artificial generativa. No show inclusive eles apontam a única saída para o fim do colapso total do planeta, _comprar uma camiseta da banda_. A ideia aqui é que somos os sapos e o planeta é nossa grande panela.
 
-Assiti o show de uma posição agradável no mezanino do Cine Joia com meus protetores auriculares, porque a idade vai chegando e ouvido é coisa séria. Em alguns momentos tive a infelicidade de ter pessoas ao meu lado conversando pra dedéu no meio dos paredões de guitarra, mas nada que algumas batidas de cabeça não resolveram. Inclusive, talvez a a etiqueta em shows seja uma das coisas que mais foram afetadas com a pandemia. Talvez seja apenas a água esquentando e a etiqueta se foi nessa variação de temperatura.
+Assiti o show de uma posição agradável no mezanino do Cine Joia com meus protetores auriculares, porque a idade vai chegando e ouvido é coisa séria. Em alguns momentos tive a infelicidade de ter pessoas ao meu lado conversando pra dedéu no meio dos paredões de guitarra, mas nada que algumas batidas de cabeça não tenham resolvido. Inclusive, a etiqueta em shows nunca mais foi a mesma após a pandemia. Talvez seja apenas a água esquentando e a etiqueta se foi nessa variação de temperatura.
 
 Após o final do show, estava chovendo provavelmente uma das chuvas mais tóxicas da história de São Paulo, após uma semana terrível em termos de qualidade do ar dessa capital - onde lideramos o ranking de pior qualidade do ar no mundo por alguns dias consecutivos. Pra terminar com chave de ouro esse dia, também rolou uma **cadeirada** durante um debate para a prefeitura da cidade. Tenho a impressão de que a água esteja quase fervendo. 
 
+Deem seus pulos.
 
 ## Fotos
 
