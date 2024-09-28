@@ -42,24 +42,9 @@ Dessa vez, as fotos não são 100% analógicas. Dessa vez tem Cybershots e coisa
 
 {% include image.html url="/assets/img/frog/varanda.jpeg" description="Varanda no Sesc" %}
 
-{% include image.html url="/assets/img/frog/whitney.jpeg" description="Whitney em 2023" %}
+{% include image.html url="/assets/img/frog/whitney.JPG" description="Whitney em 2023" %}
 
 {% include image.html url="/assets/img/frog/first_centuria.jpg" description="Vista da Tete" %}
-
-Tem video curto e de baixa qualidade da Cybershot também.
-
-<video id="myVideo" controls>
-  <source src="/assets/img/frog/checking_the_phone.AVI" type="video/mp4">
-</video>
-
-<script>
-  const video = document.getElementById('myVideo');
-  video.addEventListener('loadedmetadata', function() {
-    video.width = this.videoWidth;
-    video.height = this.videoHeight;
-  });
-</script>
-
 
 ## Recomendações
 
@@ -74,6 +59,8 @@ No meio disso tudo, aponto uma leitura interessante sobre como tentar subverter 
 [Substack da Waxahatchee](https://katiecrutchfield.substack.com/)
 
 
+## Playlist do mês
 
-_It falls apart_
-_We all got work to do_
+Desde Fevereiro, faço uma playlist durante o mês e depois tento organizar as coisas de maneira que faça sentido a sequência. A desse mês ainda não está organizada, mas já que você chegou até aqui, você merece ter o acesso a essa *grande* curadoria antes do *grande público*.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0srPJBLiDuFxMpknpljXEJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
