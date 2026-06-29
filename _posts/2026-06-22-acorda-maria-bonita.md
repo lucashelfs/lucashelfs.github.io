@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acorda Maria Bonita"
-category: Crônicas
+category: Textos
 published: True
 ---
 

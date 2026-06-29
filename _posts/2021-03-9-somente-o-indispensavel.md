@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fale com o motorista somente o indispensável"
-category: Crônicas
+category: Textos
 published: True
 ---
 

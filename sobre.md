@@ -10,4 +10,4 @@ Este é o meu cantinho da internet onde escrevo sobre algumas coisas que compõe
 + Ciência de dados
 + Música
 + Cinema
-+ Crônicas do cotidiano
++ Textos do cotidiano

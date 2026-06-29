@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 de mayo"
-category: Crônicas
+category: Textos
 published: True
 ---
 

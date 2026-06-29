@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sapo na água fervente"
-category: Crônicas
+category: Textos
 published: True
 ---
 

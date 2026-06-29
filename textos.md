@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Crônicas
-permalink: /cronicas/
+title: Textos
+permalink: /textos/
 ---
 
 <ul class="post-list">
